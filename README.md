@@ -1,3 +1,3 @@
 # Groupie Project (TicTacToe)
 
-[Our reference]()! 
+[Our reference]()
