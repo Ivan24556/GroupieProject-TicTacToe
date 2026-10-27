@@ -10,3 +10,4 @@ What would the user do with it? Play tic-tac-toe
 What is one key input and one possible output? Input: Where the user places the icon. Output: what it does in response
 What is the smallest working version?
 What is one question your group needs to research?
+3
