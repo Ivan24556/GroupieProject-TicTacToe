@@ -4,8 +4,8 @@ Our Reference
 
 ![Our reference](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwBMZ5_A6YmERp7rHRQwhjKNFLfIgIRMh-oRf4MzQf3g&s=10)
 
-Working app or game name
-Who might use it?
+Working app or game name Tic Tac Toe
+Who might use it? Everyone that wants to play Tic Tac Toe
 What would the user do with it?
 What is one key input and one possible output?
 What is the smallest working version?
