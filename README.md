@@ -13,7 +13,9 @@ Use for Program:
   Play Tic-Tac-Toe
 
 What is one key input and one possible output?
+
   Input: Where the user places the icon
+  
   Output: What the program does in response
 
 What is the smallest working version? 
