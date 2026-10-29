@@ -23,7 +23,7 @@ Our Reference
 
 
 ## What is the smallest working version? 
-  There are tiny Tic-Tac-Toe apps, but the smallest version was built in Minecraft
+  The smallest working version of our game is a working game of Tic-Tac-Toe that is capable of deciding who wins and when
 
 
 ## What is one question your group needs to research?
