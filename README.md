@@ -7,24 +7,24 @@ Our Reference
 ## Game Name: Tic-Tac-Toe
 
 
-# Potential Users:
+## Potential Users:
   People wanting to play Tic-Tac-Toe
 
 
-# Use for Program: 
+## Use for Program: 
   Play Tic-Tac-Toe
 
 
-# What is one key input and one possible output?
+## What is one key input and one possible output?
 
   Input: Where the user places the icon
   
   Output: What the program does in response
 
 
-# What is the smallest working version? 
+## What is the smallest working version? 
   There are tiny Tic-Tac-Toe apps, but the smallest version was built in Minecraft
 
 
-# What is one question your group needs to research?
+## What is one question your group needs to research?
   How to make a program that is able to play against the user
