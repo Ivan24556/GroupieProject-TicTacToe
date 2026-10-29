@@ -15,7 +15,7 @@ Our Reference
 #  Output: What the program does in response
 
 #What is the smallest working version? 
-#  There are tiny Tic-Tac-Toe apps, but the smallest version was built in Minecraft
+#There are tiny Tic-Tac-Toe apps, but the smallest version was built in Minecraft
 
 #What is one question your group needs to research?
-#  How to make a program that is able to play against the user
+#How to make a program that is able to play against the user
