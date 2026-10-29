@@ -27,4 +27,4 @@ Our Reference
 
 
 ## What is one question your group needs to research?
-  How to make a program that is able to play against the user
+  How to make a program that is able to play against the user and be increasingly harder
