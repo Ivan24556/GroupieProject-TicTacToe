@@ -1,4 +1,4 @@
-// Bulat Urmeyev, Milo Jones, Ivan Montana
+// Bulat Urmeyev, Milo Jones, Ivan Montano
 
 void setup() {}
 
