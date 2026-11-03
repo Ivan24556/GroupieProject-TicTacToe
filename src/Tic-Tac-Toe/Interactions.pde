@@ -1,5 +1,5 @@
 // Ivan 
-classInteractions {
+class Interactions {
  // Member Variables
 
 
