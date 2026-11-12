@@ -12,7 +12,7 @@ void setup() {
 void draw() {
   stroke(50);
   strokeWeight(4);
-  background(#FAFAFA)
+  background(#FAFAFA);
   
   // Vertical lines
   line(width / 3, 0, width / 3, height );
