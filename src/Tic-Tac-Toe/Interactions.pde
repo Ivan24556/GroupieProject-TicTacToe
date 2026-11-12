@@ -5,8 +5,7 @@ class Interactions {
 
 // Constructor
 Interactions() {
- x=
- y=
+
 } 
 
 // Member Method
