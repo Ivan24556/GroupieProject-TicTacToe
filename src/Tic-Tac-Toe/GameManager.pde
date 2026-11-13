@@ -1,3 +1,5 @@
+// Milo Jones
+
 class Game {
   Board board = new Board();
   char currentTurn = 'X';
